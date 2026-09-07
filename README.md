@@ -31,20 +31,6 @@ Insight: Morning rush 8-10 AM is peak (25k+ orders), Coffee 39% dominates, Hell'
 
 ---
 
-2. Hourly Sales Trend Analysis
-Quantity Ordered Based on Hour - shows staffing needs.
-
-<img width="1015" height="581" alt="Hourly Sales Trend" src="https://github.com/user-attachments/assets/bac355a0-f9b7-49c1-a980-0b47d9a540ff" />
-
-Business Action: Increase staff 7-11 AM, Happy Hour offers 6-8 PM for low footfall.
-
----
-
-3. Category Performance & Store Distribution
-Categories % Distribution + Store Wise % Sales - product mix & location comparison.
-
-<img width="1018" height="582" alt="Category and Store Wise Sales" src="https://github.com/user-attachments/assets/81dca6b9-298c-4847-954f-7da52f7c2682" />
-
 Insight: Coffee 39% + Tea 28% = 67% revenue, all 3 stores balanced (32-34% each).
 
 ---
