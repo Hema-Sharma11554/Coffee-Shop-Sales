@@ -25,8 +25,7 @@ End-to-end sales performance analysis for a multi-location coffee shop chain cov
 
 1. Main Overview - Coffee Shop Sales Dashboard
 Complete overview with Total Sales, Footfall, Avg Bill, Hourly orders, Category distribution, Store-wise sales, Footfall vs Sales, Top 5 products, Weekday orders with Month & Day slicers.
-
-<img width="1013" height="583" alt="Coffee Shop Sales Main Dashboard" src="https://github.com/user-attachments/assets/ca46189a-0c2d-4696-b8af-948cc5f975b1" />
+<img width="922" height="345" alt="Image" src="https://github.com/user-attachments/assets/54627ba6-db62-4389-81b2-344d11f67493" />
 
 Insight: Morning rush 8-10 AM is peak (25k+ orders), Coffee 39% dominates, Hell's Kitchen & Astoria both 34% sales share.
 
