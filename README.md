@@ -7,7 +7,6 @@ Portfolio
 
 🔴 LIVE INTERACTIVE DASHBOARD:
 👉 Click Here to View Dashboard - Coffee Shop Sales [blocked]
-Replace YOUR_NOVY_PRO_LINK_HERE with your Novy.pro / Power BI publish link like you did for Clarte & Ogul. Example: https://app.novy.pro/project/...
 
 Image unavailable. Please retry the request.
 Above is a static preview. Click the Live Dashboard button above for interactive filtering by Month & Day.
