@@ -1,100 +1,112 @@
-☕ Coffee Shop Sales Analysis - Power BI / Excel Dashboard
+☕ Coffee Shop Sales Analysis - Power BI Dashboard
 End-to-end sales performance analysis for a multi-location coffee shop chain covering $698K+ sales & 149K+ footfall
 
-Live Dashboard [blocked]
-GitHub Repo
-Portfolio
-
-🔴 LIVE INTERACTIVE DASHBOARD:
-👉 Click Here to View Dashboard - Coffee Shop Sales [blocked]
-
-Image unavailable. Please retry the request.
-Above is a static preview. Click the Live Dashboard button above for interactive filtering by Month & Day.
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-View%20Interactive%20Report-brightgreen?style=for-the-badge&logo=powerbi)](https://github.com/Hema-Sharma11554/Coffee-Shop-Sales)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-black?style=for-the-badge&logo=github)](https://github.com/Hema-Sharma11554/Coffee-Shop-Sales)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7%20Projects-blue?style=for-the-badge)](https://hema-sharma11554.github.io/Portfolio-Hema-Sharma11554/)
 
 🔗 Quick Links
-Resource	Link
-📊 Live Dashboard	Click to Interact - Power BI [blocked]
-💻 GitHub Code	https://github.com/Hema-Sharma11554/Coffee-Shop-Sales
-🌐 My Portfolio	https://hema-sharma11554.github.io/Portfolio-Hema-Sharma11554/
-📈 All 7 Projects	https://github.com/Hema-Sharma11554?tab=repositories
-🔗 Related Portfolio
-Main Portfolio: https://hema-sharma11554.github.io/Portfolio-Hema-Sharma11554/
+| Resource | Link |
+|----------|------|
+| **📊 GitHub Repo** | https://github.com/Hema-Sharma11554/Coffee-Shop-Sales |
+| **🌐 Portfolio** | https://hema-sharma11554.github.io/Portfolio-Hema-Sharma11554/ |
+| **📈 All Projects** | https://github.com/Hema-Sharma11554?tab=repositories |
 
-📊 Overview
-Analyzed coffee shop sales data across 3 store locations (Astoria, Hell's Kitchen, Lower Manhattan) from January to June to identify revenue drivers, peak hours, best-selling products, and store performance. This project helps business owners optimize staffing, inventory, and marketing strategies.
+---
 
-💰 Key KPIs
-Metric	Value	Insight
-Total Sales	$6,98,812.33	Strong half-yearly revenue
-Total Footfall	149,116 customers	High customer retention
-Average Bill / Person	$4.69	Upselling opportunity
-Average Order / Person	1.44	Customers order ~1-2 items
+💰 Key KPIs at a Glance
+- Total Sales: $6,98,812.33 |  Total Footfall: 149,116
+- Avg Bill / Person: $4.69 | Avg Order / Person: 1.44
+- Best Location: Hell's Kitchen ($2,36,511) | Best Product: Barista Espresso ($91,406)
 
-📈 Dashboard Features
-1. Quantity Ordered Based on Hour
-Peak ordering: 8 AM - 10 AM (25,000+ orders) - Morning rush hour
-Lowest: 6 AM & 8 PM (6,000 & 500 orders)
-Business Action: Increase staff during 7-11 AM, reduce after 7 PM
-2. Categories % Distribution on Sales
-Coffee 39% - Core product
-Tea 28% - Second highest
-Bakery 12% - Good add-on
-Drinking Chocolate 10%, Coffee beans 6%, Others 5%
-Insight: Focus on Coffee & Tea combo offers
-3. Store Wise % Sales
-Astoria: 34% ($2,32,244)
-Hell's Kitchen: 34% ($2,36,511) - Highest revenue
-Lower Manhattan: 32% ($2,30,057)
-Insight: Almost equal distribution - all stores performing well, Hell's Kitchen slightly ahead
-4. Footfall & Sales over Store Locations
-Hell's Kitchen: 50,735 footfall | $2,36,511 sales - Best performer
-Astoria: 50,599 footfall | $2,32,244 sales
-Lower Manhattan: 47,782 footfall | $2,30,057 sales - Highest Avg Bill
+---
+
+📊 Dashboard Walkthrough
+
+1. Main Overview - Coffee Shop Sales Dashboard
+Complete overview with Total Sales, Footfall, Avg Bill, Hourly orders, Category distribution, Store-wise sales, Footfall vs Sales, Top 5 products, Weekday orders with Month & Day slicers.
+
+<img width="1013" height="583" alt="Coffee Shop Sales Main Dashboard" src="https://github.com/user-attachments/assets/ca46189a-0c2d-4696-b8af-948cc5f975b1" />
+
+Insight: Morning rush 8-10 AM is peak (25k+ orders), Coffee 39% dominates, Hell's Kitchen & Astoria both 34% sales share.
+
+---
+
+2. Hourly Sales Trend Analysis
+Quantity Ordered Based on Hour - shows staffing needs.
+
+<img width="1015" height="581" alt="Hourly Sales Trend" src="https://github.com/user-attachments/assets/bac355a0-f9b7-49c1-a980-0b47d9a540ff" />
+
+Business Action: Increase staff 7-11 AM, Happy Hour offers 6-8 PM for low footfall.
+
+---
+
+3. Category Performance & Store Distribution
+Categories % Distribution + Store Wise % Sales - product mix & location comparison.
+
+<img width="1018" height="582" alt="Category and Store Wise Sales" src="https://github.com/user-attachments/assets/81dca6b9-298c-4847-954f-7da52f7c2682" />
+
+Insight: Coffee 39% + Tea 28% = 67% revenue, all 3 stores balanced (32-34% each).
+
+---
+
+4. Footfall & Revenue by Location
+Footfall & Sales over Various Store Locations - efficiency analysis.
+
+<img width="1018" height="582" alt="Footfall vs Sales Location" src="https://github.com/user-attachments/assets/7e90341b-78c5-4f71-b84f-4e8a4e979b65" />
+
+Insight: Lower Manhattan has lower footfall (47,782) but similar revenue ($2,30,057) - premium customers.
+
+---
+
 5. Top 5 Best Selling Products
-Barista Espresso - $91,406 - Champion product
-Brewed Chai tea - $77,082
-Hot chocolate - $72,416
-Gourmet brewed coffee - $70,035
-Brewed Black tea - $47,932
-6. Orders on Weekdays
-Highest: Friday $21,701 & Monday $21,643
-Lowest: Saturday $20,510 & Sunday $21,096
-Insight: Weekday office rush drives sales, weekend slightly lower
+Revenue driver products - inventory focus.
 
-🔍 Key Business Insights & Recommendations
-Morning Rush is Gold: 80% orders between 7 AM - 12 PM -> Deploy max staff, pre-brew coffee
-Product Focus: Promote Barista Espresso + Bakery combo (39% + 12% categories) to increase Avg Bill from $4.69 to $6+
-Store Balancing: Lower Manhattan has lower footfall but similar revenue -> Higher value customers, replicate premium products there
-Weekday Strategy: Launch Monday & Friday special offers to maintain momentum
-Off-Peak Utilization: Evening 6-8 PM very low -> Introduce Happy Hour discounts
-Category Expansion: Loose Tea, Flavours, Packaged Chocolate only 1% each -> Either discontinue or bundle
+<img width="1016" height="580" alt="Top 5 Best Selling Products" src="https://github.com/user-attachments/assets/0d0f205d-bed2-4108-b015-052cfd810561" />
+
+Top Products: Barista Espresso $91,406 | Brewed Chai tea $77,082 | Hot chocolate $72,416 | Gourmet brewed coffee $70,035
+
+---
+
+6. Weekday Order Pattern
+Orders on Weekdays - weekend vs weekday strategy.
+
+<img width="1015" height="580" alt="Orders on Weekdays" src="https://github.com/user-attachments/assets/af3c0292-5576-4ec1-9a4f-6fece5410fad" />
+
+Insight: Friday $21,701 highest, Saturday $20,510 lowest - weekday office crowd drives sales.
+
+---
+
+🔍 Key Business Recommendations
+
+1. Morning Rush Gold: 80% orders 7 AM - 12 PM → Deploy max staff, pre-brew
+2. Combo Strategy: Coffee (39%) + Bakery (12%) combo to increase Avg Bill from $4.69 to $6+
+3. Store Learning: Replicate Lower Manhattan premium product mix to other stores
+4. Weekday Push: Monday & Friday special offers
+5. Off-Peak: 6-8 PM Happy Hour discounts
+6. SKU Rationalization: Loose Tea, Flavours, Packaged Chocolate only 1% → bundle or remove
+
 🛠️ Tech Stack
-
-Data Visualization: Power BI / Excel
-Data Analysis: DAX, Power Query, Pivot Tables, VLOOKUP, Slicers (Month & Day filters)
-Charts Used: Line Chart, Pie Chart, Bar Chart, KPI Cards
-Domain: Retail Sales, E-commerce, Customer Behavior Analytics
-
-📁 Dataset Details
-Period: January - June (6 months)
-Locations: Astoria, Hell's Kitchen, Lower Manhattan
-Attributes: Order Date, Time, Store Location, Product Category, Product Name, Quantity, Price, Sales
-
-🚀 How to Use
-Download .pbix or .xlsx file
-Open in Power BI Desktop / Excel
-Use Month and Day Name slicers on left to filter
-Hover over charts for detailed values
+- Visualization: Power BI, Excel
+- Analysis: DAX, Power Query, Pivot, Slicers, VLOOKUP
+- Charts: Line, Pie, Bar, KPI Cards, Donut
+- Domain: Retail Sales, E-commerce, Customer Behavior
 
 👩‍💼 Author
-Hemlata Sharma (Hema-Sharma11554)
-Business Analyst Consultant | MBA in Data Science & Business Analytics
-Specialization: SQL, Power BI, Excel, Microsoft Fabric, Churn Analysis, Sales & HR Analytics
-Portfolio: https://hema-sharma11554.github.io/Portfolio-Hema-Sharma11554/
-GitHub: https://github.com/Hema-Sharma11554
-LinkedIn: https://www.linkedin.com/in/hemlataa-sharrma/
+Hemlata Sharma (Hema-Sharma11554) - Business Analyst Consultant
+- MBA Data Science & Business Analytics | SQL, Power BI, Excel, Fabric, Python
+- Portfolio: https://hema-sharma11554.github.io/Portfolio-Hema-Sharma11554/
+- GitHub: https://github.com/Hema-Sharma11554
 
+📌 Other Projects
+- [Ogul India - 19% Attrition](https://github.com/Hema-Sharma11554/Ogul-India-Pvt-Ltd)
+- [Clarte HR - 835 Employees](https://github.com/Hema-Sharma11554/Clarte_HR_Analysis)
+- [Bank Churn - 20.4%](https://github.com/Hema-Sharma11554/Bank-Customer-Churn-Data-Analysis)
+- [Helix Performance](https://github.com/Hema-Sharma11554/Helix_Global_Performance_Analysis)
+- [CRM Sales Dashboard](https://github.com/Hema-Sharma11554/CRM-SALES-Dashboard)
+- [Blinkit Python Analysis](https://github.com/Hema-Sharma11554/Blinkit-Analysis-Python-Project)
 
-⭐ If you found this project useful, please star the repo!
+---
+⭐ Star this repo if you found it useful!
 
-#BusinessAnalyst #PowerBI #SalesAnalytics #DataAnalytics #RetailAnalytics #CoffeeShop #Dashboard #Excel #SQL
+#PowerBI #SalesAnalytics #RetailAnalytics #BusinessAnalyst #CoffeeShop #Dashboard #DataAnalytics
