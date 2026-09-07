@@ -1,8 +1,23 @@
 ☕ Coffee Shop Sales Analysis - Power BI / Excel Dashboard
 End-to-end sales performance analysis for a multi-location coffee shop chain covering $698K+ sales & 149K+ footfall
 
-Live Dashboard | GitHub Repo: https://github.com/Hema-Sharma11554/Coffee-Shop-Sales
+Live Dashboard [blocked]
+GitHub Repo
+Portfolio
 
+🔴 LIVE INTERACTIVE DASHBOARD:
+👉 Click Here to View Dashboard - Coffee Shop Sales [blocked]
+Replace YOUR_NOVY_PRO_LINK_HERE with your Novy.pro / Power BI publish link like you did for Clarte & Ogul. Example: https://app.novy.pro/project/...
+
+Image unavailable. Please retry the request.
+Above is a static preview. Click the Live Dashboard button above for interactive filtering by Month & Day.
+
+🔗 Quick Links
+Resource	Link
+📊 Live Dashboard	Click to Interact - Power BI [blocked]
+💻 GitHub Code	https://github.com/Hema-Sharma11554/Coffee-Shop-Sales
+🌐 My Portfolio	https://hema-sharma11554.github.io/Portfolio-Hema-Sharma11554/
+📈 All 7 Projects	https://github.com/Hema-Sharma11554?tab=repositories
 🔗 Related Portfolio
 Main Portfolio: https://hema-sharma11554.github.io/Portfolio-Hema-Sharma11554/
 
@@ -15,7 +30,6 @@ Total Sales	$6,98,812.33	Strong half-yearly revenue
 Total Footfall	149,116 customers	High customer retention
 Average Bill / Person	$4.69	Upselling opportunity
 Average Order / Person	1.44	Customers order ~1-2 items
-
 📈 Dashboard Features
 1. Quantity Ordered Based on Hour
 Peak ordering: 8 AM - 10 AM (25,000+ orders) - Morning rush hour
@@ -46,7 +60,6 @@ Brewed Black tea - $47,932
 Highest: Friday $21,701 & Monday $21,643
 Lowest: Saturday $20,510 & Sunday $21,096
 Insight: Weekday office rush drives sales, weekend slightly lower
-
 🔍 Key Business Insights & Recommendations
 Morning Rush is Gold: 80% orders between 7 AM - 12 PM -> Deploy max staff, pre-brew coffee
 Product Focus: Promote Barista Espresso + Bakery combo (39% + 12% categories) to increase Avg Bill from $4.69 to $6+
@@ -54,28 +67,36 @@ Store Balancing: Lower Manhattan has lower footfall but similar revenue -> Highe
 Weekday Strategy: Launch Monday & Friday special offers to maintain momentum
 Off-Peak Utilization: Evening 6-8 PM very low -> Introduce Happy Hour discounts
 Category Expansion: Loose Tea, Flavours, Packaged Chocolate only 1% each -> Either discontinue or bundle
-
 🛠️ Tech Stack
 Data Visualization: Power BI / Excel
 Data Analysis: DAX, Power Query, Pivot Tables, VLOOKUP, Slicers (Month & Day filters)
 Charts Used: Line Chart, Pie Chart, Bar Chart, KPI Cards
 Domain: Retail Sales, E-commerce, Customer Behavior Analytics
-
 📁 Dataset Details
 Period: January - June (6 months)
 Locations: Astoria, Hell's Kitchen, Lower Manhattan
 Attributes: Order Date, Time, Store Location, Product Category, Product Name, Quantity, Price, Sales
-
-
+🚀 How to Use
+Download .pbix or .xlsx file
+Open in Power BI Desktop / Excel
+Use Month and Day Name slicers on left to filter
+Hover over charts for detailed values
 👩‍💼 Author
 Hemlata Sharma (Hema-Sharma11554)
+
 Business Analyst Consultant | MBA in Data Science & Business Analytics
 Specialization: SQL, Power BI, Excel, Microsoft Fabric, Churn Analysis, Sales & HR Analytics
 Portfolio: https://hema-sharma11554.github.io/Portfolio-Hema-Sharma11554/
 GitHub: https://github.com/Hema-Sharma11554
-LinkedIn: https://www.linkedin.com/in/hemlataa-sharrma/
-
-
+LinkedIn: [Add your LinkedIn]
+📌 Projects in this Portfolio
+Ogul India Attrition
+Clarte HR Analysis - 835 Employees
+Bank Customer Churn
+Helix Global Performance
+CRM Sales Dashboard
+Blinkit Python Analysis
+Coffee Shop Sales - This Repo
 ⭐ If you found this project useful, please star the repo!
 
 #BusinessAnalyst #PowerBI #SalesAnalytics #DataAnalytics #RetailAnalytics #CoffeeShop #Dashboard #Excel #SQL
